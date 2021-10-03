@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @richiebailey74 (Richard Bailey)
-- 👀 I’m interested in software development and machine learning/AI. I also have high interests in applying nueral networks to solving complicated problems in genetics, energy,
+- 👀 I’m interested in software development and machine learning/AI. I also have high interests in applying neural networks to solving complicated problems in genetics, energy,
 quantum mechanics, and politics.
 - 🌱 I’m currently learning software engineering, web development, and database systems.
 - 💞️ I’m looking to collaborate and work for any internship.
